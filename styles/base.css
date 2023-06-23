@@ -4,6 +4,7 @@
 
 h1 {
     text-align: center;
+    text-decoration: underline;
 }
 
 img {
@@ -16,4 +17,10 @@ img {
 
 .image_block {
     background-color: antiquewhite;
+}
+a {
+    background-color:burlywood;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 }
