@@ -1,3 +1,19 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_block {
+    background-color: antiquewhite;
+}
